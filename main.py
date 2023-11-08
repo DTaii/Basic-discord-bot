@@ -175,4 +175,3 @@ async def setup(ctx):
     await ctx.guild.create_text_channel("Chat", category=category_entertainment)
     await ctx.guild.create_text_channel("Spambot", category=category_entertainment)
     await ctx.guild.create_text_channel("Game Chat", category=category_entertainment)
-    await ctx.guild.create_text_channel("Spambot
